@@ -17,7 +17,7 @@
 
 ![Demonstração de 15 segundos da Rota elétrica: questionário, recomendação e comparação entre elétrico e combustão](rota-eletrica/docs/demo.gif)
 
-Uma noite virada, muitas ideias e **três minutos para apresentar a solução**. Este repositório guarda o caminho que percorremos no hackathon e a continuação da ideia depois do evento.
+Uma noite virada, muitas ideias e **três minutos para apresentar a solução**. Este repositório guarda o caminho que percorremos no hackathon e a continuação da ideia depois do evento :)
 
 ## O desafio
 
@@ -34,7 +34,7 @@ O interesse existia. A decisão de contratar ainda encontrava obstáculos.
 
 ## Como chegamos à ideia
 
-Chegar a um consenso deu trabalho. Discutimos público, preço, recarga, autonomia e a jornada de quem estava escolhendo um carro. Pesquisamos referências de calculadoras e experiências de adoção para entender o que poderia reduzir o esforço da decisão.
+Chegar a um consenso deu trabalho (até demaiskkk), discutimos público, preço, recarga, autonomia e a jornada de quem estava escolhendo um carro. Pesquisamos referências de calculadoras e experiências de adoção para entender o que poderia reduzir o esforço da decisão.
 
 O recorte que escolhemos foi o de pessoas considerando uma assinatura, com orçamento compatível e interesse em eletrificados. Querer um carro novo e gostar da tecnologia não significava ter segurança para mudar a rotina.
 
@@ -43,7 +43,7 @@ Depois de várias conversas, concentramos a proposta em duas dores:
 - **Percepção de valor:** a mensalidade aparecia de imediato, mas comparar combustível, energia e experiência ainda exigia pesquisa e contas do cliente.
 - **Incerteza:** dúvidas sobre onde carregar, como viajar e o que mudaria no dia a dia podiam permanecer abertas no momento da escolha.
 
-Nossa hipótese era que mostrar a conta com premissas claras e responder às dúvidas da rotina poderia ajudar nessa decisão. Uma calculadora sozinha não resolveria tudo.
+Nossa hipótese era que mostrar a conta com premissas claras e responder às dúvidas da rotina poderia ajudar nessa decisão. Uma calculadora sozinha não resolveria tudo(inclusive na nossa pesquisa de fato mostrou que não havia correlatos com calculadora = +conversão) pensando nisso...
 
 ## A solução
 
@@ -121,4 +121,4 @@ Mais detalhes no [README técnico](rota-eletrica/README.md).
 
 ---
 
-<sub>Protótipo conceitual independente, sem vínculo oficial com a Localiza. Preços e consumos da demonstração são ilustrativos. A proposta ainda precisa ser testada para avaliar seu efeito na contratação. Parcerias e benefícios sugeridos na pesquisa são hipóteses, não ofertas disponíveis.</sub>
+<sub>Protótipo conceitual independente, sem vínculo oficial com a Localiza. Preços e consumos da demonstração são ilustrativos. A proposta ainda precisa ser testada para avaliar seu efeito na contratação.</sub>
