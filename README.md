@@ -96,7 +96,7 @@ Grupo 5 do Hackathon Ruptura 2026.
 
 ## Experimentar e desenvolver
 
-Para testar sem instalar, baixe [Rota-eletrica.html](rota-eletrica/Rota-eletrica.html) e abra no navegador. O botão **Ver demo de 15s** percorre o fluxo automaticamente.
+<a href"[https://mellow-khapse-946bf5.netlify.app](https://mellow-khapse-946bf5.netlify.app)"> Clique aqui para acessar a solução pela web</a>
 
 <details>
 <summary><strong>Rodar o código localmente</strong></summary>
