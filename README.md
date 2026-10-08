@@ -94,7 +94,7 @@ Grupo 5 do Hackathon Ruptura 2026.
 - [Pesquisas, perguntas e caminhos de solução](rota-eletrica/docs/pesquisa%20de%20dados/)
 - [Decisões do protótipo e premissas da comparação](rota-eletrica/docs/decisoes.md)
 
-## Experimentar e desenvolver
+## Experimentar
 
 - [Acessar a solução pela Web](https://mellow-khapse-946bf5.netlify.app)
 <details>
