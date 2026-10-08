@@ -96,8 +96,7 @@ Grupo 5 do Hackathon Ruptura 2026.
 
 ## Experimentar e desenvolver
 
-<a href"[https://mellow-khapse-946bf5.netlify.app](https://mellow-khapse-946bf5.netlify.app)"> Clique aqui para acessar a solução pela web</a>
-
+- [Acessar a solução pela Web](https://mellow-khapse-946bf5.netlify.app)
 <details>
 <summary><strong>Rodar o código localmente</strong></summary>
 
