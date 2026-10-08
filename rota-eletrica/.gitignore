@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.work/
+.openai/*.local.*
+*.tar.gz
+*.log
+*.tsbuildinfo
